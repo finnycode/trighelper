@@ -1,0 +1,30 @@
+#toppagediv {
+    text-align: center;
+}
+
+#basicfunctiondiv {
+    text-align: center;
+    padding-top: 0.5in;
+
+}
+
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-family: monospace;
+
+}
+
+div {
+    font-family: monospace;
+}
+
+button {
+    border-width: .001cm;
+}
+
+input {
+    font-family: monospace;
+}
